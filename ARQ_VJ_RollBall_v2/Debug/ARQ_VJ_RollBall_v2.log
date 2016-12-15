@@ -1,0 +1,16 @@
+﻿  Renderer.cpp
+c:\users\francisco.estaun\documents\pruebas_arqsoft\arq_vj_rollball_v2\arq_vj_rollball_v2\core.h(43): error C3861: 'sqrt': identifier not found
+c:\users\francisco.estaun\documents\pruebas_arqsoft\arq_vj_rollball_v2\arq_vj_rollball_v2\core.h(45): error C3861: 'cos': identifier not found
+c:\users\francisco.estaun\documents\pruebas_arqsoft\arq_vj_rollball_v2\arq_vj_rollball_v2\core.h(45): error C3861: 'sin': identifier not found
+c:\users\francisco.estaun\documents\pruebas_arqsoft\arq_vj_rollball_v2\arq_vj_rollball_v2\core.h(54): error C3861: 'sqrt': identifier not found
+c:\users\francisco.estaun\documents\pruebas_arqsoft\arq_vj_rollball_v2\arq_vj_rollball_v2\core.h(60): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\francisco.estaun\documents\pruebas_arqsoft\arq_vj_rollball_v2\arq_vj_rollball_v2\core.h(60): error C2146: syntax error: missing ';' before identifier 'CORE_LoadBmp'
+c:\users\francisco.estaun\documents\pruebas_arqsoft\arq_vj_rollball_v2\arq_vj_rollball_v2\core.h(61): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\francisco.estaun\documents\pruebas_arqsoft\arq_vj_rollball_v2\arq_vj_rollball_v2\core.h(61): error C2086: 'int GLuint': redefinition
+  c:\users\francisco.estaun\documents\pruebas_arqsoft\arq_vj_rollball_v2\arq_vj_rollball_v2\core.h(60): note: see declaration of 'GLuint'
+c:\users\francisco.estaun\documents\pruebas_arqsoft\arq_vj_rollball_v2\arq_vj_rollball_v2\core.h(61): error C2146: syntax error: missing ';' before identifier 'CORE_LoadPNG'
+c:\users\francisco.estaun\documents\pruebas_arqsoft\arq_vj_rollball_v2\arq_vj_rollball_v2\core.h(62): error C2146: syntax error: missing ')' before identifier 'texid'
+c:\users\francisco.estaun\documents\pruebas_arqsoft\arq_vj_rollball_v2\arq_vj_rollball_v2\core.h(63): error C2146: syntax error: missing ')' before identifier 'texid'
+c:\users\francisco.estaun\documents\pruebas_arqsoft\arq_vj_rollball_v2\arq_vj_rollball_v2\core.h(64): error C2061: syntax error: identifier 'GLuint'
+c:\users\francisco.estaun\documents\pruebas_arqsoft\arq_vj_rollball_v2\arq_vj_rollball_v2\core.h(65): error C2061: syntax error: identifier 'GLuint'
+c:\users\francisco.estaun\documents\pruebas_arqsoft\arq_vj_rollball_v2\arq_vj_rollball_v2\core.h(66): error C2061: syntax error: identifier 'GLuint'
